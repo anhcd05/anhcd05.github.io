@@ -16,7 +16,7 @@ timezone: Asia/Saigon
 
 title: anhcd # the main title
 
-tagline: My Personal Blog # it will display as the subtitle
+tagline: Just a personal blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   blog, tremo, github

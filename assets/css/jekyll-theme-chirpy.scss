@@ -12,3 +12,27 @@
 .post-content :not(pre) > code:not([class]) {
   color: var(--inline-code-color) !important;
 }
+
+/* --- Sidebar Glass Effect --- */
+#sidebar {
+  backdrop-filter: saturate(180%) blur(12px);
+  -webkit-backdrop-filter: saturate(180%) blur(12px);
+  box-shadow: 4px 0 16px rgba(0,0,0,.35);
+  z-index: 2100;
+}
+
+#sidebar ul li a.nav-link {
+  background-color: var(--sidebar-hover-bg);
+  border: 1px solid rgba(255,255,255,.08);
+  transition: all .25s ease;
+}
+
+#sidebar ul li.active .nav-link,
+#sidebar ul li a.nav-link:hover {
+  background-color: rgba(255,255,255,.15);
+  color: var(--sidebar-active-color);
+}
+
+#sidebar #avatar {
+  box-shadow: 0 0 0 3px rgba(255,255,255,.25);
+}
