@@ -7,7 +7,7 @@ Hi there, welcome to this little corner of the cyber world!
 
 My name is Chu Duc Anh — you can call me by my surname **Chử** or **anhcd** for short. I'm a third-year student majoring in Information Security at PTIT (Posts and Telecommunications Institute of Technology), Vietnam.
 
-Currently, I'm most interested in web exploitation and still curiously exploring GRC (Governance, Risk, and Compliance) as a student. I actively participate in CTF competitions as part of my team, **PTIT.Lugia**. I usually take on web, forensics, crypto challenges — but to be honest, I always hope to just do web 😄
+Currently, I'm most interested in web exploitation and still curiously exploring Consulting and GRC (Governance, Risk, and Compliance). I actively participate in CTF competitions as part of my team, **PTIT.Lugia**. I usually take on web, forensics, crypto challenges — but to be honest, I always hope to just do web 😄
 
 This blog is where I document my learning journey — whether it’s CTF write-ups, deep dives into specific CVEs, or notes on technical topics I’m currently exploring. Writing helps me learn better, and I hope some of my posts might help you too!
 
@@ -16,7 +16,6 @@ This blog is where I document my learning journey — whether it’s CTF write-u
 - 2<sup>nd</sup> place at **[COMINFFEST 2025, an A&D CTF hosted by MTUCI, Russia](https://mtuci.ru/about_the_university/news/12495/)** as **PTIT.Lugia**  
 - 2<sup>nd</sup> place and *Promising Award* at **[PTITCTF 2024](https://www.facebook.com/CTF.PTIT/posts/pfbid033UzqXeSP8SVi9jaQT5AozzohtNuvjjFEzXKA82mzY9TrRwc9ZmPDw2uJne4VQmezl)** as **PTIT.whales**  
 - 1 of 6 students in Vietnam to receive the **[CyberJutsu Web Pentest Course scholarship](https://www.facebook.com/share/p/16iTDgJS8e/)**
-- Not an achievement but I also participated in Hacktheon Sejong 2025 Qualifier, ASEAN SVATTT 2024 Qualifier (ASCIS), PwC Hackaday 2024
 
 ## Contacts
 - Email: chuducanhwork@gmail.com
