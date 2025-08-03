@@ -10,7 +10,7 @@ description: "My write-up for some PHP Deserialization challenges"
 
 ### Rootme: PHP - Serialization 
 
-> **[https://challenge01.root-me.org/web-serveur/ch28/](http://challenge01.root-me.org/web-serveur/ch28/)**
+> **[https://challenge01.root-me.org/web-serveur/ch28/](https://challenge01.root-me.org/web-serveur/ch28/)**
 
 ![image]({{ "/assets/img/2025-07-25-PHPDeserChall/image1.png" | relative_url }})
 
