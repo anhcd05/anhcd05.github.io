@@ -1,0 +1,14 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main{% if jekyll.environment == "production" %}.bundle{% endif %}';
+
+:root, [data-bs-theme='light'] {
+  --inline-code-color: #e63946;
+}
+
+/* Chỉ áp dụng cho inline code: không nằm trong pre, không có class */
+.post-content :not(pre) > code:not([class]) {
+  color: var(--inline-code-color) !important;
+}
