@@ -1,8 +1,11 @@
 ---
-title: Java deserialize, gadget chain URLDNS - ysoserial
+title: Java deserialize, debug gadget chain URLDNS
 date: 2025-07-30 00:00:00 +0007
 categories: [Analysis]
 tags: [deserialization, java, ysoserial]
+
+image:
+  path: /assets/img/2025-08-02-Debug-URLDNS/cover.png
 
 description: "A beginner's write-up on Java deserialization about setting up the environment and exploring the URLDNS gadget chain in ysoserial with debugging and payload analysis."
 

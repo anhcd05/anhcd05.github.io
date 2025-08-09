@@ -14,6 +14,8 @@ Currently, I'm most interested in web exploitation and still curiously exploring
 
 This blog is where I document my learning journey — whether it’s CTF write-ups, deep dives into specific CVEs, or notes on technical topics I’m currently exploring. Writing helps me learn better, and I hope some of my posts might help you too!
 
+Btw, you can find **[more of my post here](https://github.com/anhcd05)**
+
 ## My achievements yet
 - 4<sup>th</sup> place at **[FPTU Secathon 2025](https://www.facebook.com/share/p/177Gvohnkk/)** as **PTIT.Lugia**  
 - 2<sup>nd</sup> place at **[COMINFFEST 2025, an A&D CTF hosted by MTUCI, Russia](https://mtuci.ru/about_the_university/news/12495/)** as **PTIT.Lugia**  
@@ -22,5 +24,5 @@ This blog is where I document my learning journey — whether it’s CTF write-u
 
 ## Contacts
 - Email: chuducanhwork@gmail.com
-- GitHub: **[github.com/anhcd05](https://github.com/anhcd05)**
 - Telegram: **[t.me/anhcd05](https://t.me/anhcd05)**
+- Facebook: **[facebook.com/chuducanh05](https://www.facebook.com/chuducanh05/)**

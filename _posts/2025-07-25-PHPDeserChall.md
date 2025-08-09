@@ -2,7 +2,10 @@
 title: PHP Deserialize challenge write-up
 date: 2025-07-25 00:00:00 +0007
 categories: [Write-up]
-tags: [deserialization, php]
+tags: [deserialization, php, rootme]
+
+image:
+  path: /assets/img/2025-07-25-PHPDeserChall/cover.png
 
 description: "My write-up for some PHP Deserialization challenges"
 

@@ -5,3 +5,19 @@
     linear-gradient(rgba(24,24,24,.86), rgba(24,24,24,.86)),
     url('/assets/img/sidebar-bg.jpg') center/cover no-repeat !important;
 }
+
+/* Thumbnail bên phải trong Home */
+#post-list .post-preview .col-md-5 img.home-thumb {
+  display: block;
+  width: 100%;
+  height: 170px;      /* 150–180 tuỳ bạn */
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+/* Mobile: ảnh lên trên, full width */
+@media (max-width: 992px) {
+  #post-list .post-preview .col-md-5 img.home-thumb {
+    height: 200px;
+  }
+}
