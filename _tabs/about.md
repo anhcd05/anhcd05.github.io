@@ -3,9 +3,12 @@
 icon: fas fa-info-circle
 order: 4
 ---
+
 Hi there, welcome to this little corner of the cyber world!
 
-My name is Chu Duc Anh — you can call me by my surname **Chử** or **anhcd** for short. I'm a third-year student majoring in Information Security at PTIT (Posts and Telecommunications Institute of Technology), Vietnam.
+![image]({{ "/assets/img/about.jpg" | relative_url }}){: width="360" .rounded .shadow .d-block .mx-auto }
+
+My name is Chu Duc Anh — you can call me by my surname **`Chử`** or **`anhcd`** for short. I'm a third-year student majoring in Information Security at PTIT (Posts and Telecommunications Institute of Technology), Vietnam.
 
 Currently, I'm most interested in web exploitation and still curiously exploring Consulting and GRC (Governance, Risk, and Compliance). I actively participate in CTF competitions as part of my team, **PTIT.Lugia**. I usually take on web, forensics, crypto challenges — but to be honest, I always hope to just do web 😄
 
@@ -19,5 +22,5 @@ This blog is where I document my learning journey — whether it’s CTF write-u
 
 ## Contacts
 - Email: chuducanhwork@gmail.com
-- GitHub: [github.com/anhcd05](https://github.com/anhcd05)
-- Telegram: [t.me/anhcd05](https://t.me/anhcd05)
+- GitHub: **[github.com/anhcd05](https://github.com/anhcd05)**
+- Telegram: **[t.me/anhcd05](https://t.me/anhcd05)**

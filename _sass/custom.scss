@@ -1,0 +1,7 @@
+/* _sass/custom.scss */
+#sidebar,
+.sidebar { /* lấy cả 2 selector cho chắc */
+  background:
+    linear-gradient(rgba(24,24,24,.86), rgba(24,24,24,.86)),
+    url('/assets/img/sidebar-bg.jpg') center/cover no-repeat !important;
+}

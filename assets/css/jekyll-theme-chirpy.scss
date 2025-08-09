@@ -3,6 +3,7 @@
 
 /* prettier-ignore */
 @use 'main{% if jekyll.environment == "production" %}.bundle{% endif %}';
+@use 'custom';
 
 :root, [data-bs-theme='light'] {
   --inline-code-color: #e63946;

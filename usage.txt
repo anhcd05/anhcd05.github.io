@@ -1,0 +1,6 @@
+run local: bundle exec Jekyll serve
+
+push to GitHub:
+git add .
+git commit -m 'hehe'
+git push origin main
