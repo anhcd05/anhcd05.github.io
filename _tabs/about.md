@@ -10,7 +10,7 @@ Hi there, welcome to this little corner of the cyber world!
 
 My name is Chu Duc Anh — you can call me by my surname **`Chử`** or **`anhcd`** for short. I'm a third-year student majoring in Information Security at PTIT (Posts and Telecommunications Institute of Technology), Vietnam.
 
-Currently, I'm most interested in web exploitation and still curiously exploring Consulting and GRC (Governance, Risk, and Compliance). I actively participate in CTF competitions as part of my team, **PTIT.Lugia**. I usually take on web, forensics, crypto challenges — but to be honest, I always hope to just do web 😄
+Currently, I'm most interested in web exploitation. I actively participate in CTF competitions as part of my team, **PTIT.Lugia**. I usually take on web, forensics, crypto challenges — but to be honest, I always hope to just do web 😄
 
 This blog is where I document my learning journey — whether it’s CTF write-ups, deep dives into specific CVEs, or notes on technical topics I’m currently exploring. Writing helps me learn better, and I hope some of my posts might help you too!
 

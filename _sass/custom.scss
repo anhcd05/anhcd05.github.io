@@ -1,23 +1,58 @@
-/* _sass/custom.scss */
+/* ================= Sidebar BG =================== */
 #sidebar,
-.sidebar { /* lấy cả 2 selector cho chắc */
+.sidebar {
   background:
     linear-gradient(rgba(24,24,24,.86), rgba(24,24,24,.86)),
     url('/assets/img/sidebar-bg.jpg') center/cover no-repeat !important;
 }
 
-/* Thumbnail bên phải trong Home */
+/* ============== Home right thumbnail ============ */
 #post-list .post-preview .col-md-5 img.home-thumb {
   display: block;
   width: 100%;
-  height: 170px;      /* 150–180 tuỳ bạn */
+  height: 170px;
   object-fit: cover;
   border-radius: 12px;
 }
-
-/* Mobile: ảnh lên trên, full width */
 @media (max-width: 992px) {
   #post-list .post-preview .col-md-5 img.home-thumb {
     height: 200px;
   }
+}
+
+/* ===================================================================
+   Inline code ONLY (yellow pill). Không đụng đến code block.
+   =================================================================== */
+
+/* Target inline code bên trong phần nội dung bài viết */
+.content :not(pre):not(.highlight) > code {
+  background-color: #fff3cd;        /* soft yellow */
+  color: #3b2f00;
+  border: 1px solid rgba(0, 0, 0, .12);
+  border-radius: .35rem;
+  padding: .05em .40em;
+  font-size: .92em;
+  font-weight: 600;
+  box-decoration-break: clone;      /* giữ pill khi xuống dòng */
+}
+
+/* Dark mode */
+html[data-mode="dark"] .content :not(pre):not(.highlight) > code {
+  background-color: rgba(255, 210, 77, .22);
+  color: #ffe08a;
+  border-color: rgba(255, 210, 77, .35);
+}
+
+/* ===================================================================
+   Safety reset cho code block (fenced ```…```).
+   Nếu rule ở trên vô tình ăn vào, đoạn dưới sẽ loại bỏ.
+   =================================================================== */
+.content pre > code,
+.content div.highlight code,
+.content figure.highlight code {
+  background: none !important;
+  border: 0 !important;
+  padding: 0 !important;
+  box-shadow: none !important;
+  /* không set color để giữ nguyên syntax highlight của theme */
 }
