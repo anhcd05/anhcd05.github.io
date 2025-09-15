@@ -1,5 +1,5 @@
 ---
-title: Java deserialize, debug gadget chain URLDNS
+title: (Vietnamese) Java deserialize, debug gadget chain URLDNS
 date: 2025-07-30 00:00:00 +0007
 categories: [Analysis]
 tags: [deserialization, java, ysoserial]

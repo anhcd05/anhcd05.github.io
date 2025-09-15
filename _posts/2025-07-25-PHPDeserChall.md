@@ -1,5 +1,5 @@
 ---
-title: PHP Deserialize challenge write-up
+title: (Vietnamese) PHP Deserialize challenge write-up
 date: 2025-07-25 00:00:00 +0007
 categories: [Write-up]
 tags: [deserialization, php, rootme]

@@ -1,5 +1,5 @@
 ---
-title: Python-Flask file upload vulns
+title: (English) Python-Flask file upload vulns
 date: 2025-05-11 00:00:00 +0007
 categories: [Write-up]
 tags: [File upload vuln, English]

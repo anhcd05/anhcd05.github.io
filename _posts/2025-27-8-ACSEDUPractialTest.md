@@ -1,5 +1,5 @@
 ---
-title: ACS EDU Practial Test Writeup
+title: (Vietnamese) ACS EDU Practial Test Writeup
 date: 2025-08-27 00:00:00 +0007
 categories: [Write-up]
 tags: [SQLi, XSS, English]

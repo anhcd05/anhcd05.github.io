@@ -18,3 +18,14 @@ git push origin main
 
 > An example showing the `danger` type prompt.
 {: .prompt-danger }
+
+
+
+
+step 1:
+python3 hackmd_img_downloader.py \
+  --source "https://hackmd.io/@cKZOTBozR4moJ4nC-OXLpQ/SkxI4pStlg" \
+  --outdir "/mnt/e/Blog/anhcd05.github.io/assets/img/2025-08-20-CVE-2020-29396"
+
+step2: 
+python3 standardize_hackmd_imgs.py   --md-file "E:\Blog\anhcd05.github.io\_posts\2025-08-20-CVE-2020-29396.md"   --asset-dir "E:\Blog\anhcd05.github.io\assets\img\2025-08-20-CVE-2020-29396"   --inplace   --verbose
