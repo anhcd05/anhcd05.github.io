@@ -17,6 +17,11 @@ This blog is where I document my learning journey — whether it’s CTF write-u
 Btw, you can find **[more of my post here](https://github.com/anhcd05)**
 
 ## My achievements yet
+
+![image]({{ "/assets/img/about2.jpg" | relative_url }}){: width="1200" .rounded .shadow .d-block .mx-auto }
+
+- 1<sup>st</sup> place at **[PTIT CTF 2025](https://www.facebook.com/share/p/19ixhuTZJb/)**  as **PTIT.Lugia**
+- 1 of 7 **International Outstanding Students** from the **4th ASEAN Cyber Shield** (ACS EDU), got a chance to go to Korea on 17/11/2025 - 21/11/2025
 - 4<sup>th</sup> place at **[FPTU Secathon 2025](https://www.facebook.com/share/p/177Gvohnkk/)** as **PTIT.Lugia**  
 - 2<sup>nd</sup> place at **[COMINFFEST 2025, an A&D CTF hosted by MTUCI, Russia](https://mtuci.ru/about_the_university/news/12495/)** as **PTIT.Lugia**  
 - 2<sup>nd</sup> place and *Promising Award* at **[PTITCTF 2024](https://www.facebook.com/CTF.PTIT/posts/pfbid033UzqXeSP8SVi9jaQT5AozzohtNuvjjFEzXKA82mzY9TrRwc9ZmPDw2uJne4VQmezl)** as **PTIT.whales**  
