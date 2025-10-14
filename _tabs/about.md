@@ -18,7 +18,7 @@ Btw, you can find **[more of my post here](https://github.com/anhcd05)**
 
 ## My achievements yet
 
-![image]({{ "/assets/img/about2.jpg" | relative_url }}){: width="1200" .rounded .shadow .d-block .mx-auto }
+![image]({{ "/assets/img/hehe.jpg" | relative_url }}){: width="1200" .rounded .shadow .d-block .mx-auto }
 
 - 1<sup>st</sup> place at **[PTIT CTF 2025](https://www.facebook.com/share/p/19ixhuTZJb/)**  as **PTIT.Lugia**
 - 1 of 7 **International Outstanding Students** from the **4th ASEAN Cyber Shield** (ACS EDU), got a chance to go to Korea on 17/11/2025 - 21/11/2025
