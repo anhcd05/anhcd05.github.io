@@ -1,3 +1,9 @@
+for new installation:
+Step 1: Install ruby
+Step 2: Install bundler => gem install bundler
+Step 3: Install required package and sth like that => bundle install in the root folder 
+
+
 run local: bundle exec Jekyll serve
 
 push to GitHub:
