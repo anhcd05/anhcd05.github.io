@@ -11,19 +11,9 @@ description: "My write up for the erpdotnet challenge and my experience in the R
 
 ---
 
-## About the competition
+> Vì khi mình viết bài này thì truy cập lại website cuộc thi đã đóng nên không còn thông tin về mô hình mạng và rules nữa, nhưng nhìn chung thì cũng giống như các cuộc thi A&D CTF thông thường
 
-Lười quá viết sau hehe
-
-Note ý cho sau này viết:
-
-> Cuộc thi diễn ra onsite tại Nga, các đội đều được cấp sẵn cho một con router cùng nhiều dây Ethernet, việc set up diễn ra khá đơn giản...
-
-> Hoàn cảnh diễn ra ở Nga, vì vậy các AI gần như bị chặn hết, chỉ còn một vài con cùi mà mình kiểm tra là vẫn dùng được (Deepseek, Grok, Perplexity) nhưng không có nhiều tác dụng trong cuộc thi lắm vì mình chưa từng dùng những con này trước đây
-
-### The network architecture of the competition
-
-### Setting up the vuln box and tools
+> Giải này thì họ cấp cho mình một con cloud server, trong đó có sẵn service chỉ cần vào dựng tool và chạy service lên là chiến. Vì là cuộc thi onsite tại Nga, việc set up cho cuộc thi cũng không gặp bất kỳ khó khăn gì như giải saarCTF
 
 ## Write up challenge erpdotnet
 
