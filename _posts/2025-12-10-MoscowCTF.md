@@ -266,7 +266,7 @@ Chưa kể cuộc thi này diễn ra vào ngày 10/12 tại Moscow, Nga và đâ
 
 Cảm ơn mọi người đã đọc tới tận đây! Chúc các bạn một ngày tốt lành :D 
 
-![Ảnh tại Red Square vì sợ mọi người không biết rằng mình đã từng đặt chân tới đây hehe]({{ "/assets/img/2025-12-10-MoscowCTF/image8.jpg" | relative_url }})
+![Ảnh tại Red Square vì sợ mọi người không biết rằng mình đã từng đặt chân tới đây hehe]({{ "/assets/img/2025-12-10-MoscowCTF/image8.png" | relative_url }})
 
 
 
