@@ -32,5 +32,6 @@ Btw, you can find **[more of my post here](https://github.com/anhcd05)**
 
 ## Contacts
 - Email: chuducanhwork@gmail.com
+- LinkedIn: **[linkedin.com/in/chuducanh05](https://www.linkedin.com/in/chuducanh05)**
 - Telegram: **[t.me/anhcd05](https://t.me/anhcd05)**
 - Facebook: **[facebook.com/chuducanh05](https://www.facebook.com/chuducanh05/)**
